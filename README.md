@@ -1,4 +1,16 @@
-# Salesforce App
+# Construction Bid Board Demo Component 
+
+This is a set of objects and fields for subcontractors in the construction industry to manage information around projects, bids, and competitors (often referred to in the industry as a "Bid Board")
+
+There's an internal listing with the package here: https://q-demo-components.herokuapp.com/#/demo-component/a014100000NA1ZLAA1
+
+## Installation
+1. Download the source and DX it into your org
+2. Add the Construction Job Tab to whatever Lightning App you are using.
+3. Add relevant Lightning Actions to the Construction Job page layout (Log a Call, Email, New Task, etc.)
+4. Populate with data!
+
+# Salesforce DX Help
 
 This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.
 
